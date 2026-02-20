@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Twitter Unleashed",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Persistent X.com enhancements — reply sorting, and more.",
     "icons": {
         "16": "icons/twitter.png",
@@ -18,8 +18,12 @@
         "default_title": "Twitter Unleashed"
     },
     "permissions": [
-        "storage"
+        "storage",
+        "webNavigation"
     ],
+    "background": {
+        "service_worker": "background.js"
+    },
     "content_scripts": [
         {
             "matches": [
