@@ -29,20 +29,6 @@ Your choice syncs across Chrome profiles and survives restarts.
 
 ---
 
-## Project Structure
-
-```
-Twitter-Unleashed/
-├── manifest.json      # Chrome MV3 manifest
-├── background.js      # SPA navigation detection
-├── content.js         # Feature host + automation logic
-├── popup.html/css/js  # Extension popup UI
-└── icons/
-    └── twitter.png
-```
-
----
-
 ## Adding Features
 
 Every feature is a self-contained module:
@@ -82,8 +68,8 @@ Open an issue or submit a PR on [GitHub](https://github.com/AbrahamBisrat/Twitte
 | Permission | Why |
 |---|---|
 | `storage` | Save your preferences |
-| `webNavigation` | Detect page navigation in X's single-page app |
+| `webNavigation` | Detect page navigation in Twitter's single-page app |
 
 ---
 
-<p align="center"><b>Your feed. Your rules!</b></p>
+<p align="center"><b>Your feed. Your rules! meh, try anyways.</b></p>
