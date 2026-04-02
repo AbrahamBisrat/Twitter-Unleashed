@@ -4,7 +4,7 @@
 
 ---
 
-X resets your reply sort order to "Relevant" every time you open a tweet. That's annoying. Twitter Unleashed remembers your preference and applies it automatically — on every tweet, every time.
+Twitter now resets your reply sort order to "Relevant" every time you open a tweet. That's annoying. Twitter Unleashed remembers your preference and applies it automatically — on every tweet, every time.
 
 ## Features
 
