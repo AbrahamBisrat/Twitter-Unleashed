@@ -1,6 +1,6 @@
 # Twitter Unleashed
 
-> A Chrome Extension that gives you persistent control over your X.com experience.
+> A Chrome Extension that gives you persistent control over your Twitter.com (cringely called x.com) experience.
 
 ---
 
