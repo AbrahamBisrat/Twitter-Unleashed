@@ -10,12 +10,12 @@ X resets your reply sort order to "Relevant" every time you open a tweet. That's
 
 | Feature | Description |
 |---|---|
-| 🔓 **Persistent Reply Sort** | Choose **Likes**, **Recent**, or **Relevant** once — it sticks on every tweet. |
-| ⚡ **Zero friction** | Works silently in the background. No clicks, no interruptions. |
-| 🧱 **Built to grow** | Modular architecture — new features drop in with one line of code. |
+| **Persistent Reply Sort** | Choose **Likes**, **Recent**, or **Relevant** once — it sticks on every tweet. |
+| **Zero friction** | Works silently in the background. No clicks, no interruptions. |
+| **Built to grow** | Modular architecture — new features drop in with one line of code. |
 
 ## Upcoming features
-- Blocking & unfollowing with one tap and not even a confirmation; If a single tap allows me to follow the same should apply for unfollow and block.
+- `Blocking` & `Unfollowing` with `one tap` and not even a confirmation; If a single tap allows me to follow the same should apply for unfollow and block.
 
 
 ## Usage
